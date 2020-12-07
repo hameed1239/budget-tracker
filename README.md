@@ -2,7 +2,8 @@
 
     ![NPM](https://img.shields.io/badge/license-MIT-<green>) ![NPM](https://img.shields.io/github/followers/hameed1239?style=social) ![NPM](https://img.shields.io/github/languages/top/hameed1239/budget-tracker) ![NPM](https://img.shields.io/github/languages/count/hameed1239/budget-tracker) [!NPM](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fbudget-tracker-hameed1239.herokuapp.com%2F)
 
-    ## Description
+## Description
+
         Budget Tracker is an application that allows you to track your expenses and income. It has an offline features that allows you to access the the application even when you're experiencing low or down network signal. 
 
     ## Table of Contents
