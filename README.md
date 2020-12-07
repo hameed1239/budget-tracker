@@ -4,51 +4,60 @@
 
 ## Description
 
-        Budget Tracker is an application that allows you to track your expenses and income. It has an offline features that allows you to access the the application even when you're experiencing low or down network signal. 
+Budget Tracker is an application that allows you to track your expenses and income. It has an offline features that allows you to access the the application even when you're experiencing low or down network signal.
 
-    ## Table of Contents
-        * [Technologies](#technologies)
-        * [Installation](#installation)
-        * [Usage](#usage)
-        * [License](#license)
-        * [Credits](#credits)
-        * [Contribution](#contribution)
-        * [Test](#test)
-        * [Questions](#questions)
+## Table of Contents
 
-    ## Technologies
-        * Database-: MongoDB
-        * Offline storage-: IndexedDB, Cache
-        * ORM-: Mongoose
-        * Server-: Express.js
+* [Technologies](#technologies)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Credits](#credits)
+* [Contribution](#contribution)
+* [Test](#test)
+* [Questions](#questions)
 
-    ## Installation
-        1. Fork this repository to a local repository
-        2. Open the application folder in VSCode.
-        3. Install node dependencies by running "npm install and follow the prompts"(requires node already be installed on your machine. reference: nodejs.org)
-        4. In VSCode terminal, run "npm start" to start the server.
+## Technologies
 
-    ## Usage
-    This Application should only be used for personal projects. You may not sell this or distribute this application
+* Database-: MongoDB
+* Offline storage-: IndexedDB, Cache
+* ORM-: Mongoose
+* Server-: Express.js
 
-    ## License
-    ![alt text](https://img.shields.io/badge/license-MIT-blueviolet?style=for-the-badge&logo=appveyor "license badge")
+## Installation
 
-    ## Credits
-    [Hameed1239](https://github.com/hameed1239)
+1. Fork this repository to a local repository
+2. Open the application folder in VSCode.
+3. Install node dependencies by running "npm install and follow the prompts"(requires node already be installed on your machine. reference: nodejs.org)
+4. In VSCode terminal, run "npm start" to start the server.
 
-    ## Contributing
-    You can contribute to this project by creating issues on this repository
+## Usage
 
-    ## Test
-    Link to app: [Budget Tracker](https://budget-tracker-hameed1239.herokuapp.com/)
+This Application should only be used for personal projects. You may not sell this or distribute this application
 
-    Screenshots:
-    ![Screenshot](/public/assets/images/Capture1.PNG)
+## License
 
-    ## Questions
-    You can create issues on my git hub page
+![alt text](https://img.shields.io/badge/license-MIT-blueviolet?style=for-the-badge&logo=appveyor "license badge")
 
-    [hameed1239](https://github.com/hameed1239)
-    
-    You can also contact me via email @ hameeddecoder@gmail.com
+## Credits
+
+[Hameed1239](https://github.com/hameed1239)
+
+## Contributing
+
+You can contribute to this project by creating issues on this repository
+
+## Test
+
+Link to app: [Budget Tracker](https://budget-tracker-hameed1239.herokuapp.com/)
+
+Screenshots:
+![Screenshot](/public/assets/images/Capture1.PNG)
+
+## Questions
+
+You can create issues on my git hub page
+
+[hameed1239](https://github.com/hameed1239)
+
+You can also contact me via email @ hameeddecoder@gmail.com
